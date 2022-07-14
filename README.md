@@ -1,8 +1,7 @@
-# gaia_pulsars
+# gaiaEDR3_pulsars
 
-Here we look at the white dwarf companion to IPTA millisecond pulsars.
-Our long-term goal is to achieve pc-scale distance measurements to the pulsars in order to do gravitational-wave interferometry, get better constraints on fuzzy (light axionic) dark matter, and tests of GR via binary pulsars.
+Here we present the code to reproduce the results in Moran, Mingarelli, Bedell, and Good. Please cite our paper when you use this code. 
 
-Here we give all the codes to reproduce the results in Mingarelli, Anderson, Bedell and Spergel. Please cite our paper when you use our code.
+We examine the binary companions to IPTA pulsars using Gaia EDR3. In doing so we hope to improve distance measurments to the MSPs which can in turn improve gravitational wave detection, dark matter measurements, and tests of general relativity. 
 
-In order to do the pulsar cross-match, see our other repo: gaia_xmatch.
+To conduct the cross match, see ChiaraMingarelli's gaia_xmatch. 
